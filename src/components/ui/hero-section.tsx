@@ -107,19 +107,20 @@ const AnimatedBoxes: React.FC = () => {
     );
 };
 
-export interface SceneProps {
+export interface SceneProps extends React.HTMLAttributes<HTMLDivElement> {
   className?: string;
+  title?: string;
 }
 
-export const Scene: React.FC<SceneProps> = ({ className = '' }) => {
+export const Scene: React.FC<SceneProps> = ({ className = '', title }) => {
   // Camera positioned further back and higher for better background coverage
   const [cameraPosition] = React.useState<[number, number, number]>([0, 0, 25]);
 
   return (
-    <div className={`${className} w-full h-full`}>
-      <Canvas 
-        camera={{ 
-          position: cameraPosition, 
+    <div className={`${className} w-full h-full relative`}>
+      <Canvas
+        camera={{
+          position: cameraPosition,
           fov: 45,
           near: 0.1,
           far: 1000
@@ -128,14 +129,26 @@ export const Scene: React.FC<SceneProps> = ({ className = '' }) => {
         gl={{ antialias: true, alpha: true }}
       >
         <ambientLight intensity={0.8} color="#ffffff" />
-        <directionalLight 
-          position={[10, 10, 5]} 
-          intensity={1.5} 
+        <directionalLight
+          position={[10, 10, 5]}
+          intensity={1.5}
           color="#ffffff"
           castShadow={false}
         />
         <AnimatedBoxes />
       </Canvas>
+      
+      {/* Title overlay */}
+      {title && (
+        <div className="absolute inset-0 flex items-center justify-center z-10 pointer-events-none">
+          <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold text-white mb-6 leading-tight text-center px-4">
+            {title.split(' ')[0]}
+            <span className="block bg-gradient-to-r from-white via-white/90 to-white/70 bg-clip-text text-transparent">
+              {title.split(' ').slice(1).join(' ')}
+            </span>
+          </h1>
+        </div>
+      )}
     </div>
   );
 };

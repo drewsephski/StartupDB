@@ -20,11 +20,23 @@ function getIdeasFromFile(): Idea[] {
     
     let currentId = 1;
     for (const line of lines) {
-      if (line.startsWith('#') || !/^\d+\.\s+.+/.test(line)) continue;
-      
-      const ideaText = line.replace(/^\d+\.\s*/, '').trim();
-      const titleWords = ideaText.split(' ').slice(0, 5).join(' ');
-      const title = titleWords.endsWith('.') ? titleWords.slice(0, -1) : titleWords;
+      if (line.startsWith('#') && !line.startsWith('##')) continue;
+
+      let ideaText: string;
+      let title: string;
+      let description: string;
+
+      if (line.startsWith('##')) {
+        ideaText = line.replace(/^## \d+\. /, '').trim();
+        [title, description] = ideaText.split(' - ');
+      } else if (/^\d+\.\s+.+/.test(line)) {
+        ideaText = line.replace(/^\d+\.\s*/, '').trim();
+        const titleWords = ideaText.split(' ').slice(0, 5).join(' ');
+        title = titleWords.endsWith('.') ? titleWords.slice(0, -1) : titleWords;
+        description = ideaText;
+      } else {
+        continue;
+      }
       
       // Simple categorization based on keywords
       let category = 'General';
@@ -59,7 +71,7 @@ function getIdeasFromFile(): Idea[] {
         'under', 'above', 'below', 'between', 'through', 'after', 'before', 'during', 'since', 'until', 'while'
       ]);
       
-      const keywords = ideaText
+      const keywords = description
         .toLowerCase()
         .split(/[^\w']+/)
         .filter(word => 
@@ -71,8 +83,8 @@ function getIdeasFromFile(): Idea[] {
       
       ideas.push({
         id: currentId++,
-        title: title.length > 50 ? `${title.substring(0, 47)}...` : title,
-        description: ideaText,
+        title: title.length > 100 ? `${title.substring(0, 97)}...` : title,
+        description: description,
         category,
         keywords: [...new Set(keywords)].slice(0, 3)
       });

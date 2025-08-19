@@ -60,12 +60,16 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en">
-      <body className={`${geistSans.variable} ${geistMono.variable} font-sans antialiased`}>
-        <ToastProvider />
-        <PointsInitializer />
-        <Header />
-        {children}
+    <html lang="en" className={`${geistSans.variable} ${geistMono.variable}`}>
+      <body className={`${geistSans.className} overflow-x-hidden`}>
+        <div className="min-h-screen w-full max-w-[100vw] overflow-x-hidden">
+          <ToastProvider />
+          <PointsInitializer />
+          <Header />
+          <main className="w-full overflow-x-hidden">
+            {children}
+          </main>
+        </div>
       </body>
     </html>
   );

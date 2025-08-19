@@ -5,7 +5,7 @@ import dynamic from 'next/dynamic';
 import { Input } from '@/components/ui/input';
 import { Tabs, TabsContent, TabsList, TabsTrigger } from '@/components/ui/tabs';
 import { getIdeas, type Idea } from '@/lib/ideas';
-import { Scene } from "@/components/ui/hero-section";
+import { Scene } from "@/components/ui/rubik-s-cube";
 import { Search, Filter, Sparkles } from 'lucide-react';
 
 // Dynamically import heavy components
@@ -91,12 +91,14 @@ export default function IdeasPage() {
   return (
     <div className="relative min-h-screen bg-gradient-to-b from-black via-gray-900 to-black">
       {/* Background Scene */}
-      <Scene className="fixed inset-0 -z-10" />
+      <div className="absolute inset-0">
+        <Scene />
+      </div>
       
       {/* Main Content Container */}
       <div className="relative z-10">
         {/* Hero Section */}
-        <section className="relative px-4 pt-20 pb-16">
+        <section className="relative px-4 pt-32 py-16">
           <div className="container mx-auto max-w-6xl">
             {/* Header Content */}
             <div className="text-center mb-12">

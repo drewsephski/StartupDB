@@ -1,10 +1,11 @@
 'use client';
 
 import { cn } from '@/lib/utils';
-import { Share2, Sparkles } from 'lucide-react';
+import { Share2, Sparkles, ChevronDown, ChevronUp } from 'lucide-react';
 import { Button } from '../ui/button';
 import { Badge } from '../ui/badge';
-import { motion } from 'framer-motion';
+import { motion, AnimatePresence } from 'framer-motion';
+import { useState } from 'react';
 
 type IdeaCardProps = {
   id: number;
@@ -16,6 +17,13 @@ type IdeaCardProps = {
 };
 
 export function IdeaCard({ id, title, description, category, keywords, className }: IdeaCardProps) {
+  const [isExpanded, setIsExpanded] = useState(false);
+  const [showScrollIndicator, setShowScrollIndicator] = useState(false);
+  const descriptionRef = (node: HTMLParagraphElement | null) => {
+    if (node) {
+      setShowScrollIndicator(node.scrollHeight > node.clientHeight);
+    }
+  };
   const handleShare = async () => {
     const shareData = {
       title: `Startup Idea: ${title}`,
@@ -44,7 +52,7 @@ export function IdeaCard({ id, title, description, category, keywords, className
         'group relative overflow-hidden rounded-xl border border-white/10 backdrop-blur-sm bg-white/5',
         'transition-all duration-200 hover:bg-white/10 hover:border-white/20',
         'focus:outline-none focus:ring-2 focus:ring-white/20 focus:ring-offset-2 focus:ring-offset-transparent',
-        'h-full flex flex-col',
+        'h-full flex flex-col min-h-[280px] max-h-[400px]',
         className
       )}
       initial={{ opacity: 0, y: 20 }}
@@ -52,20 +60,71 @@ export function IdeaCard({ id, title, description, category, keywords, className
       transition={{ duration: 0.4, ease: [0.16, 1, 0.3, 1] }}
       whileHover={{ y: -4, transition: { duration: 0.2 } }}
     >
-      <div className="flex items-start gap-4 mb-4">
+      <div className="flex items-start gap-4 p-6 pb-4 flex-shrink-0">
         <div className="flex-shrink-0 flex h-12 w-12 items-center justify-center rounded-xl
           bg-gradient-to-br from-white/10 to-white/5 text-white transition-all duration-300
           group-hover:from-white/20 group-hover:to-white/10 group-hover:shadow-lg group-hover:shadow-white/5">
           <Sparkles className="h-5 w-5 transition-transform duration-300 group-hover:scale-110" />
         </div>
-        <div className="flex-1 min-w-0">
-          <h3 className="text-lg font-semibold text-white mb-2 line-clamp-2">{title}</h3>
-          <p className="text-sm text-white/80 line-clamp-3 leading-relaxed">{description}</p>
+        <h3 className="text-lg font-semibold text-white line-clamp-2 leading-tight">{title}</h3>
+      </div>
+      
+      <div className="relative px-6 pb-2 flex-1 overflow-hidden">
+        <div 
+          ref={descriptionRef}
+          className={cn(
+            'text-sm text-white/80 leading-relaxed pr-2 overflow-y-auto max-h-[180px]',
+            'custom-scrollbar',
+            'transition-all duration-300',
+            isExpanded ? 'max-h-[300px]' : 'max-h-[180px]',
+            showScrollIndicator && !isExpanded ? 'pb-6' : ''
+          )}
+        >
+          {description}
         </div>
+        
+        {showScrollIndicator && (
+          <AnimatePresence>
+            {!isExpanded && (
+              <motion.div 
+                className="absolute bottom-0 left-0 right-0 h-12 bg-gradient-to-t from-black/80 to-transparent flex items-end justify-center pb-2"
+                initial={{ opacity: 1 }}
+                exit={{ opacity: 0 }}
+              >
+                <Button 
+                  variant="ghost" 
+                  size="sm" 
+                  className="text-xs text-white/60 hover:text-white/90 flex items-center gap-1"
+                  onClick={(e) => {
+                    e.stopPropagation();
+                    setIsExpanded(true);
+                  }}
+                >
+                  Show more <ChevronDown className="h-3.5 w-3.5 ml-0.5" />
+                </Button>
+              </motion.div>
+            )}
+            {isExpanded && (
+              <div className="pt-2 flex justify-center">
+                <Button 
+                  variant="ghost" 
+                  size="sm" 
+                  className="text-xs text-white/60 hover:text-white/90 flex items-center gap-1"
+                  onClick={(e) => {
+                    e.stopPropagation();
+                    setIsExpanded(false);
+                  }}
+                >
+                  Show less <ChevronUp className="h-3.5 w-3.5 ml-0.5" />
+                </Button>
+              </div>
+            )}
+          </AnimatePresence>
+        )}
       </div>
       
       {keywords.length > 0 && (
-        <div className="mt-auto pt-4 border-t border-white/5">
+        <div className="mt-auto pt-4 px-6 pb-4 border-t border-white/5">
           <div className="flex flex-wrap gap-2">
             {keywords.slice(0, 3).map((keyword, i) => (
               <motion.span

@@ -113,7 +113,8 @@ export function IdeaCardOptimized({
 
         {/* Title */}
         <motion.h3 
-          className="text-lg font-semibold text-white mb-3 leading-tight group-hover:text-white/95 transition-colors duration-200"
+          className="text-xl font-bold text-white mb-3 leading-tight tracking-tight group-hover:text-white/95 transition-colors duration-200"
+          style={{ textShadow: '0 1px 3px rgba(0,0,0,0.3)' }}
           layout
         >
           {title}
