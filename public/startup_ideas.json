@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "title": "AI-powered personalized learning platform",
+    "description": "A platform that uses AI to adapt learning content and pace to individual student needs, identifying strengths and weaknesses.",
+    "category": "Education",
+    "keywords": ["AI", "Education", "Personalized Learning"]
+  },
+  {
+    "id": 2,
+    "title": "Sustainable urban farming solution",
+    "description": "Vertical farming or hydroponics systems designed for urban environments, focusing on minimal resource consumption and local food production.",
+    "category": "Agriculture",
+    "keywords": ["Sustainability", "Urban Farming", "Hydroponics"]
+  },
+  {
+    "id": 3,
+    "title": "Blockchain-based supply chain transparency",
+    "description": "A system that uses blockchain to track products from origin to consumer, ensuring authenticity and ethical sourcing.",
+    "category": "Logistics",
+    "keywords": ["Blockchain", "Supply Chain", "Transparency"]
+  },
+  {
+    "id": 4,
+    "title": "Gamified fitness and wellness app",
+    "description": "An application that uses game mechanics to motivate users to achieve their fitness and wellness goals, with social features and rewards.",
+    "category": "Health & Wellness",
+    "keywords": ["Gamification", "Fitness", "Wellness", "Mobile App"]
+  },
+  {
+    "id": 5,
+    "title": "Smart home energy management system",
+    "description": "An intelligent system that optimizes energy consumption in homes by learning user habits and integrating with renewable energy sources.",
+    "category": "Smart Home",
+    "keywords": ["Smart Home", "Energy Efficiency", "IoT"]
+  }
+]

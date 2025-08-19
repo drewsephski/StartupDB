@@ -1,0 +1,1014 @@
+# Starup Ideas
+
+1. An app where you can hire an actor to come to save you from a date.
+2. A smart fridge that adjusts the light depending on how bright the room is.
+3. An electrified wristband that activates every time it recognizes you spending too much time on social media or your phone in general.
+4. A Gmail feature that condenses long emails and paraphrases them into bullet points.
+5. Tinder for finding the right flatmate.
+6. An audiobook featuring different voices for each character and a separate narrator voice.
+7. A social network that encourages kindness and has zero tolerance for user abuse
+8. An app where you and your friends can raise a digital pet.
+9. GMAIL should have a feature to warn you if you try and send an email which ends with “Best retards” instead of “Best regards.”
+10. WhatsApp has a feature that allows individual characters to appear on the recipient’s screen in real-time.
+11. Wolverine-style gloves for cutting your food.
+12. A washing machine window that doubles as a submarine, featuring real-life videos of the underwater sea with fishes, sharks, and whales.
+13. An iPhone holder that, upon removal, makes the metallic unsheathing sound heard in sword-fighting movies.
+14. An app designed to track your mental health.
+15. A vape that acts like a mouthwash.
+16. A way to grow melons small enough to fit in the palm of your hand.
+17. Foot spa but for your shoes that offers restoration and maintenance of all types of footwear.
+18. iPhone should have a timer on your locked home screen of the last time you unlocked your device.
+19. Cinema-style popcorn and pick-and-mix delivery service
+20. Card readers should be built into restaurant tables so you can pay and leave quickly.
+21. AI that can scan any artwork and show you the materials, colour palette, etc., used to create such artwork.
+22. A website that can automatically generate an itinerary based on the destination given.
+23. An app for kids’ phones where every 1/2 hour, they have to answer 2 math problems to continue using social media apps.
+24. iPhone feature where if you sneeze, Siri says “Bless you”
+25. Auto-scroll feature for iPhone with the ability to adjust speed.
+26. A Chrome feature that tells you what the password requirements were when you were creating the original password.
+27. Butter that comes in slices the same size as bread.
+28. An app that locates the nearest public bin.
+29. A podcast that plays DVD commentaries.
+30. Siri feature where I can tell her what I have in my fridge, and she will give me recipe ideas.
+31. A window cleaning drone.
+32. An app for students to find a study buddy.
+33. An alarm clock that won’t turn off until you reply to X amount of emails.
+34. A cafe that is solely dedicated to other writers working to a deadline.
+35. Shazam for logos.
+36. An app that connects users with individuals willing to dispose of their garbage and recycling in the designated garbage room.
+37. An app to meet people by asking and answering interesting questions. No images. No swiping.
+38. A way to keep my friends up to date with what i’m watching and vice versa.
+39. Oven TimerCap that automatically displays time since last opened.
+40. A self-storage facility for food is available for those who need to buy in bulk but lack space at home.
+41. An app that scans facial expressions to find the perfect emoji.
+42. A browser extension that automatically accepts cookies.
+43. A way to poke someone to respond to a your WhatsApp message.
+44. A halloween advent calendar.
+45. Online sock store for amputees.
+46. A way to share your recent purchases with Amazon and Google, so they stop showing me ads for products I’ve already purchased.
+47. A website to create personalized digital coloring books.
+48. Rocking chair for a babies room that plays lullaby music as you rock back and forward.
+49. An app where you hold the camera up and it shows you what any building looked like X years ago.
+50. A concert venue that disables any device with a camera.
+51. A sustainable dog biscuit made from repurposed food waste.
+52. A personalized monthly subscription box, delivering handpicked supplies and guides to fuel your passion for RC planes, fishing, robotics, and more.
+53. A personal AI-hosted radio station, syncing with your schedule and health data, providing personalized reminders, tips, and news, keeping you motivated and informed all day.
+54. A E-Ink display that looks and feels like a vinyl. Synced with your streaming platform. Double sided. Album cover on front/ track list on back.
+55. A digital wallet app that adds all your loyalty cards into one easy-to-access platform.
+56. A Netflix rating system.
+57. An app for watch enthusiasts to buy, sell, and trade watches.
+58. An interactive fitness app that pairs you up for real-time 1v1 exercise challenges, such as plank timers, burpee counts, or push-up competitions.
+59. An option on Amazon to filter out “does not deliver to my country.”
+60. Tinder feature that allows you to remove makeup and filters from users photos.
+61. A dual compass that allows individuals to customize their direction and find each other.
+62. A Chrome extension that takes all your followers on Twitter and follows them on Threads.
+63. An app where you can submit videos to be projected on the las vegas sphere.
+An app where you upload your clothes and can choose outfits like a tony hawk character selection screen.
+AI app where I take a pic of my messy room and it shows me how to organize it.
+An app that connects food donors with local organizations and individuals in need.
+GIFs but for music. A texting feature that lets you send song lyric snippets as audio clips similar to how we send GIFs to share a feeling or moment.
+An app that allows you to change the voice of any podcast narrator.
+A social media app that has a reset mode every two weeks, allowing users to break away from repetitive content, and explore new interests.
+A website that suggests ideal places to live based on your salary, considering factors like cost of living and quality of life
+64. A digital skipping stone/ drone hybrid that counts the skips and returns to thrower when becomes stationary.
+65. A yo-yo prison soap, so if you drop the soap you can simply snap it back up.
+66. A piano with built in gloves that you place your hands. You can choose any song you want to learn and the gloves will guide your hands. As you become better you can reduce the pressure of the aid.
+67. Google Maps option to show the safest route.
+68. A smart wallet connected to your phone that alerts you when you leave a credit card behind.
+69. AI Meme search engine. Describe the meme and the search engine will find it for you.
+70. Robot child-friendly room scanner. The robot will scan your entire home and alert you to any potential hazards for your child.
+71. Tinder should prompt you to give follow-up reviews after your date.
+72. Replace cheesy music when you’re on hold with jokes.
+73. A dinner table that automatically sets your phone to airplane mode when placed on.
+74. A dating app that helps you meet potential dates that are planning to be in the same area as you are.
+75. AI tool that turns 3D ultrasound images into photorealistic.
+76. A boxing bag that you can fill with meat. That way you can burn calories and tenderize your meat at the same time.
+77. We have cheese slices for bread but why not butter. Imagine a thin slice of butter easily going on toast.
+78. A drone that takes your dog for short walks.
+79. A pez dispenser for my vitamins.
+80. Gen z autocorrect – a chrome extension that would convert gen z words into plain english… ie – no cap: i’m not lying, fr: i’m serious
+81. Transparent nappies.
+82. Software that turns your Google Sheet into a standalone app.
+83. An app where you can rate campsites.
+84. A platform where people can offer their assistance or volunteer for projects and causes, with features like verified profiles, messaging, and project validation to ensure transparency and impactful contributions.
+85. You should get to experience any job for 5-7 days, assessing the work environment, culture, and team dynamics before committing.
+86. An oven with built-in sensors that track and display the time since the door was closed, sending notifications for prolonged open durations and integrating with smart home devices for seamless monitoring and energy efficiency.
+87. An app that playfully nudges people who owe you money to repay you by sending creative and humorous reminders, and even offering payment plan options.
+88. Socks that convert your every step into electricity, powering your devices on the go
+89. An app that suggests Halloween costume ideas based on the clothes you already have at home.
+90. A smart toilet that analyzes urine and poo samples to provide personalized insights on dietary deficiencies and digestive health.
+91. Instagram should have an intelligent feature that uses facial recognition to scan uploaded photos of missing children, promptly notifying authorities when detected.
+92. A fitness app featuring a 360-degree hologram instructor, providing real-time personalized guidance, interactive feedback, and diverse workout programs for an immersive and effective home workout experience.
+93. A browser extension that smartly detects and alerts users about dead links in real-time.
+94. A hassle-free business that offers pre-packaged ingredient bags designed for effortless Instant Pot cooking, saving you time and energy in the kitchen.
+95. An app that instantly translates live speech, allowing seamless communication across language barriers.
+96. Display calendar-type expiration dates on the front of product packages for easy identification of expiration.
+97. Get recipe ideas with integrated ingredient lists for easy import into InstaCart or DoorDash.
+98. An app where you can hire someone with your exact measurements to do clothes and shoe shopping for you,
+99. A custom jack-in-the-box service that lets you design unique and personalized surprise boxes for any occasion.
+100. An algorithm that uses facial recognition technology to seamlessly remove selected people or objects from your photos.
+101. Save Our Shows: a crowdfunding platform that allows loyal fans to raise funds to revive their favorite cancelled TV shows and connect with like-minded fans.
+102. iPhone call feature that allows users to set a duration for calls, with Siri announcing the duration to the caller before answering, helping users manage their time effectively and avoid awkward conversation endings.
+103. iPhone feature that selects your top 5 photos based on popularity and automatically sends them to an online printing service.
+104. An audio recognition tool that utilizes machine learning to diagnose vehicle engine noises and provide recommendations for maintenance or repairs.
+105. A chrome extension that blurs any mentions of TV/movies of your choice, while letting you customize blocking levels, whitelist trusted sources and receive alerts to avoid unwanted plot revelations.
+106. Podcast feature that rewards you for not skipping the ads. The rewards could be exclusive content and discounts.
+107. iPhone feature that automatically populates and suggests social media handles when adding a new contact. When a new contact is added to your phone, iPhone could scan the contact’s information and search for any associated social media profiles.
+108. Create a “Deleted Scenes” section on Netflix of blooper reels, alternate endings, and director’s cuts.
+109. A browser extension that verifies and alerts users if they are about to buy something with an incorrect shipping address.
+110. Childproof Sharpies would have safety features like a locking mechanism, a thicker barrel, and a retractable tip, while also being made with non-toxic ink and eco-friendly materials.
+111. A marketplace offers affordable, pre-built white-label apps for businesses to customize and monetize, providing a streamlined solution for app development.
+112. A wearable device that uses brainwave monitoring and AI algorithms to generate visualisations of your dreams.
+113. Allow down-voting on Instagram.
+114. An app that uses AI to match users with other users who have similar style preferences but different body types, and suggest outfit swaps.
+115. A travel app that books the cheapest direct flight+hotel to preferred destinations with 70+ degree weather, while also allowing users to set price range, hotel preferences, and offering recommendations and reviews.
+116. A fitness and health tracking shoe that monitors steps, weight, heart rate, distance, calories burned & posture.
+117. Create bar tables that feature wireless charging by placing your phone on the table, a screen in the middle for screensharing & also the ability to play interactive drinking games.
+118. A website where you can upload your image and crop it to any sizes you like at once.
+119. A toothbrush with a motion sensor to help parents monitor their children’s brushing habits and incentivize good oral hygiene,
+120. Three audio channels for TV and film broadcasts. Voice, music, and sound effects separated for a more immersive and flexible viewing experience, while also making it easier to create localized versions in different languages or regions. Let’s hear it for better sound engineering!
+121. GPT-4’s ability to see images could potentially be used to assist people with visual impairments by providing object recognition, navigation, text recognition, facial recognition, and other applications.
+122. A product scanning app with QR codes that alerts users when items are about to expire and suggests recipes, nearby stores, and ways to reuse ingredients to reduce food waste.
+123. A fashion app that uses AI to generate outfits based on a user’s closet and shopping history, while also offering personalized style recommendations, virtual wardrobe.
+124. An app or website that compares grocery store prices near your location and sends alerts for sales on specific items, and a similar idea for comparing prices on products sold by multiple stores online or in-store.
+125. Create a foggy map app for explorers that “unlocks” places by walking using GPS and provides fun facts and cool places to visit, along with achievements for exploring certain amounts of places.
+126. An app that uses real-time data and machine learning to provide users with information about the types of wildlife in a specific location, allowing nature enthusiasts, hikers, and researchers to explore and learn about the natural world around them.
+127. Create an online platform where individuals with 3D printing skills can connect with those in critical need of parts, to provide a valuable service and build a community of makers.
+128. Twitter feature to allow me to highlight a word and add it to my muted words list.
+129. An app that lets you track and log even the most mundane life accomplishments, compare them with friends and community, and get inspiration from other users.
+130. A restaurant that celebrates holidays every day by serving holiday-themed meals all year round.
+131. Create a website where people can post pictures and descriptions of specialized clothing they want made for them, and seamsters can submit bids to make the clothing for them, including their profiles, ratings, and prices.
+132. A search engine feature with toggles for different sources (such as Reddit or Twitter) to automatically add to search queries, with the ability to exclude certain sites by default.
+133. Develop an at-home patch test that can accurately identify skincare ingredients that cause skin irritations, allowing individuals to avoid those ingredients in the future.
+134. An app that uses real-time data and machine learning to provide users with information about the types of wildlife in a specific location, allowing nature enthusiasts, hikers, and researchers to explore and learn about the natural world around them.
+135. Create an online platform where individuals with 3D printing skills can connect with those in critical need of parts, to provide a valuable service and build a community of makers.
+136. Twitter feature to allow me to highlight a word and add it to my muted words list.
+137. An app that lets you track and log even the most mundane life accomplishments, compare them with friends and community, and get inspiration from other users.
+138. A restaurant that celebrates holidays every day by serving holiday-themed meals all year round.
+139. Create a website where people can post pictures and descriptions of specialized clothing they want made for them, and seamsters can submit bids to make the clothing for them, including their profiles, ratings, and prices.
+140. A search engine feature with toggles for different sources (such as Reddit or Twitter) to automatically add to search queries, with the ability to exclude certain sites by default.
+141. Develop an at-home patch test that can accurately identify skincare ingredients that cause skin irritations, allowing individuals to avoid those ingredients in the future.
+142. A podcast exploring failed businesses and comparing them with successful ones in similar situations to understand the reasons behind their outcomes.
+143. A customizable T-shirt with “scent modes” – spray with different perfumes and switch between them easily.
+144. On Demand Lego Disassembly Service.
+145. A dry shampoo that lathers into real shampoo
+146. AI like ChatGPT but for Dungeons & Dragons.
+147. Dedicated public organic waste bins with fast decomposition technology for use as plant fertilizer and promoting proper waste separation.
+148. An app to ask people from other countries to perform tasks for me, such as buying unique items, taking pictures, or providing travel advice.
+149. Create a hand crank power bank, which is a portable and eco-friendly device that allows users to manually generate energy to recharge electronic devices such as smartphones.
+150. An app that notifies you when a last-minute health service appointment becomes available. Once notified, the first person to confirm the appointment gets it.
+151. Earn cashback on your medical insurance premiums by providing proof of regular exercise.
+152. A device, plugin, or app that in real-time identifies and alerts you to the factors influencing your thoughts/decisions and the extent of their impact.
+153. A book combining traditional text with QR codes and VR/AR elements to create an immersive and interactive reading experience, enhancing learning and engagement.
+154. A gym for the eyes, offering ocular gymnastics, or eye yoga, to tone and relax eye muscles for improved eye health.
+155. A smart mouse with sensors to monitor health indicators, such as blood pressure, glucose levels, heart rate, stress, sweat, and movement, that can detect disease patterns and provide notifications for lifestyle adjustments.
+156. A music app tool that matches playlists to the user’s heartbeat, recorded via smartwatch, to personalize their exercise experience by adjusting the music’s tempo to their pace.
+157. Include road condition details in Google Maps.
+158. A service that generates a virtual reality representation through photographs of cherished memories that you want to preserve.
+159. A bedtime tradition for families where all members gather and share their cherished memories of the day through taking turns to reflect.
+160. A website/app that provides a list of movies using a specific music input, or recommends similar soundtracks.
+161. An AI-powered movie generator that produces a complete blockbuster film from your script or plot outline
+162. A platform that collects headlines from various news sources on a particular topic or event and presents them in a collage format.
+163. A bed that gently shakes you awake, instead of a traditional alarm clock, to encourage you to get up and start your day.
+164. A WhatsApp feature that tells you the audio recording stopped so you don’t spend 10 mins wasted.
+165. Vaping with steam inhalation to relieve cold symptoms.
+166. A digital ring and water bottle pair that reminds the wearer to drink with a vibrating pulse, stopping only when the bottle is touched.
+167. AI tv that can add any language voiceover
+168. The option to rate any location on Google Maps based on its breathtaking factor.
+169. A kids toothpaste that transforms into a sweeter taste the longer they brush their teeth.
+170. Glow-in-the-dark storybooks that bring bedtime tales to life.
+171. A speed-dating app for investors and startup pitchers that connects them randomly through a chat-roulette style platform, giving them 30 seconds to interact and potentially make a match.
+172. Book vending machines. With each book, you would get the digital version.
+173. Upload a photo of yourself and find how many online pictures you are the random person in the background.
+174. A book site that lists all the books recommended in a book by the author.
+175. A Shazam-style app for movies, TV shows, spoken word, or any audio recording!
+176. A location-based app that allows users to ask others questions within a specified area.
+177. Tea bags that change color to indicate when your tea is suitable to drink.
+178. An app that can convert a YouTube playlist into an Apple/ Spotify playlist.
+179. An app where people pay for your spot in line at an event.
+180. Truth Day: The opposite of April Fool’s Day where everyone agrees to be honest and straightforward in communication.
+181. An app where you type in your graduation year and it shows you a list of things science has since found to have been falsely taught when you were in school.
+182. Chrome extension that detects AI-generated text on Twitter and other platforms, with a reporting feature for suspicious content.
+183. App that suggests convenient meeting points based on real-time locations of friends and customizable venue preferences.
+184. App that breaks down goals into manageable tasks with progress tracking and reminder features.
+185. A way to trigger my GPS system that only turns on when I reach a certain destination I’m not familiar with.
+186. Non-stick poop toilet surface made of easy-to-clean materials, with a built-in cleaning system or special cleaner.
+187. Toilet paper holders that alert you via phone message when it’s running low.
+188. Polaroid app where photos don’t appear til 10 mins later. Shaking the phone speeds up the process of developing the photo.
+189. Netflix app where if I’m watching tv with subtitles they appear on my phone in case I’m browsing.
+190. A smart hoover head expands or reduces itself depending on the space it has to fit in between.
+191. Movie ticket prices should reflect a film’s popularity.
+192. A hose equipped with a small radar sensor that automatically adjusts the pressure based on the density of plants, such as flowers and bushes.
+193. Geo-tagged stickers that can be placed on any surface and tracked using a corresponding app.
+194. Popcorn should include a small packet of floss or toothpicks for post-consumption cleaning.
+195. A feature that allows you to link your streaming service accounts (e.g. Netflix, Hulu, Amazon Prime) to your social media accounts and filters out spoiler posts.
+196. A feature on Netflix that allows you to view a summary of the total time you spent watching TV shows and movies
+197. Gravebook. A place for you to chat , share photos and stories with family members about a loved one that passed. Invites are sent by an admin.
+198. Social networks should have the option to hide posts from certain age groups. Allowing users to customize their feed and only see posts from people within a specific age range.
+199. A smart fridge that tracks the expiration dates of your food and sends reminders to use up items that are about to expire.
+200. A virtual reality headset that allows you to attend live concerts and events from the comfort of your own home.
+201. A device that translates sign language into spoken words in real-time, allowing for better communication between hearing and non-hearing individuals.
+202. A way to self destruct all my social accounts after i pass away.
+203. Smart toilet with sensors and AI that adjusts the amount of water used for flushing based on the size of the waste.
+204. Toilet with built-in composting system for sustainable waste management.
+205. Children’s toothbrush that vibrates or plays a song for two minutes of brushing.
+206. A virtual garden app that allows kids to plant, grow, and harvest virtual vegetables, and helps them learn about the process of growing food.
+207. A sleek, long, thin screen that fits under your TV, displaying fully customizable close captions text.
+208. On demand hotel maids that come to your house. I love the look & feel of the bed, how it’s made, the sheets, lil chocolate, origami towel.
+209. Set up a small library at the bus stop where riders can borrow and exchange books while they wait.
+210. An app that not only provides delicious recipes, but also curates a personalized music playlist for each one!
+211. An app that you can scan your junk items and instantly see how much money you can make by selling them.
+212. An app that helps people reduce their carbon footprint by tracking and optimizing their daily habits and activities.
+213. A subscription service that provides monthly deliveries of sustainable, eco-friendly personal care products.
+214. A platform that connects local farmers with consumers, allowing them to sell their fresh produce directly.
+215. Zoom feature that people get charged X amount of money if they go over their set time on a call.
+216. A PDF reader that saves your reading position and zoom level, syncing it across all devices for a seamless reading experience. No more scrolling and zooming to find your place – it’s all automatically saved for you.
+217. Instagram feature that automatically generates captions and hashtags based on the content of a post, making it easier for users to create engaging and searchable content.
+218. Linekdin feature that helps users identify and connect with potential mentors, based on their career goals and interests.
+219. Create an AI tool that can monitor crops and soil conditions, using sensors and satellite imagery, to optimize irrigation and fertilization, and predict yields and pests.
+220. Create an AI tool that can analyze large amounts of medical data and images, such as MRIs and CT scans, to identify patterns and diagnose diseases more accurately and efficiently than humans.
+221. A VR game that lets players experience different historical periods and cultures, and interact with the people and events that shaped them, in a highly immersive and educational way.
+222. AI that auto-converts my blog posts into a bite-sized twitter thread.
+223. WhatsApp feature to translate audio messages into different languages.
+224. Cars gas tank opening should be behind the rear license plate.
+225. USB-heated fingerless    gloves, for the cold mornings at my computer.
+226. WhatsApp feature shows you the local time of the person you’re texting.
+227. AI that scans all your social network accounts and deletes anything that could affect your chances of getting a job.
+228. Newsletter app. The app gives you an email in which you can sign up to newsletters. Keeps your email free and reduces the noise & distractions.
+229. An app where you upload a reference art picture & it tells you what colour paints were used and links to buy.
+230. A “hide pyramid scheme” option on LinkedIn posts or motivational posts.
+231. An app the tells you how busy local playgrounds are.
+232. Ice cream truck but for coffee – a coffee truck that would drive around your area at a set time.
+233. An app that automatically records your achievements in work which could be used for monthly reviews or promotion requests.
+234. Sound-to-text ai glasses. The ai glasses would be able to tell what the sound is and understand situations such as – approaching vehicles, person shouting, phone ringing, doorbell, alarm and many more.
+235. AI dream to image app. Whenever you wake up you would quickly out loud describe your dream. The app would then convert it into an image.
+236. A collaboration design tool for architects. Ability to add along with the client every other person needed to build a house.
+237. An app that can convert any cloud shape into a real-world object in real-time.
+238. A lazer cutting pumpkin machine.
+239. An apple feature to convert any message into audio when listening to your Airpods.
+240. An AI that could convert any voice recording to take the place of SIRI.
+241. Twitter feature to show how many people have reported an account. Maybe change the color of the account to red.
+242. Real-time view of your countries energy usage.
+243. Build a Dog rescue/ Retirement home hybrid. Both parties gain companionships.
+244. A light shade that looks like a helieum balloon stuck to the ceiling.
+245. Washing machine that detects when a non clothing item is in the barrel and notifies you. Having not spotted a nappy within a bundle of clothes this would have been a life saver.
+246. A bowl that doubles up as a blender. Add all your porridge ingreditents to bowl and then blend.
+247. WhatsApp feature to add captions to video messages.
+248. A music social network called EarBuds.
+249. Online platform where you can share highlights and quotes of a book you are currently reading.
+250. A stopwatch that shows money increasing while it runs to help keep you motivated at work.
+251. Netflix ‘watching with parents’ feature where it skips the sex scenes.
+252. Device to control your child’s bike speed/ brakes
+253. Duolingo AI feature that would change random words from your favorite song into the language you’re trying to learn.
+254. 24 hour disappearing tweet option.
+255. A hat that can adjust its tightness depending on the strength of the wind.
+256. WhatsApp feature to send a message within a group but hide that message from an individual group member.
+257. Wikipedia for datasets.
+258. Grammarly for Figma. A plugin that would give you real-time tips to improve your design.
+259. Launch a microphone into space. Anyone can listen in real-time.
+260. Create flushable baby wipes.
+261. Garbage disposal for your toilet which would guarantee nothing gets blocked.
+262. A wearable device that would detect when my body temperature got to warm and would automatically turn on my fan.
+263. An app for influencers to help take the best photo depending on what location they are in.
+264. A smart remote that makes a noise when you say “find remote!”
+265. An iPhone feature where if you add someone’s number all of their social handles pop up and ask if you want to follow them.
+266. iPhones should let us set an alarm – Warn me when my battery has X mins left before it dies.
+267. A kid’s toilet with a whack-a-mole style flusher.
+268. An app where I can group buy local services with my neighbors.
+269. An app to vent for people who were struggling and needed an outlet. One person vents and listeners could only listen, no chat, no nothing. Just listen.
+270. Alarm clock projector. The alarm clock would project a beautiful sunrise with the associated noises.
+271. A Twitter/Instagram ‘follow random account’ button that would follow an account based on your engagement.
+272. A problem to help with blank canvas fear. You simply tell the tool what you are looking to create, i.e a drawing, a poem, a book. The tool will then give you a one-liner to help start the creativity.
+273. Recycle old clothes into punching bags.
+274. A vape that doubles up as a stylus pen.
+275. A Dall-E app that you can scan text with and it will create AI-generated images. Could be very interesting with fiction books.
+276. A service that creates physical art in any medium from any digital art.
+277. YouTube should should auto hide videos you have watched.
+278. Google maps should have a pot hole alert feature.
+279. An app that converts lego models into real world objects.
+280. Reverse of above. Turn photos of 3D lego objects.
+281. An app that every day gives you a concept with a 24h limit to create a drawing, photo or a short piece of text around the concept.
+282. A microwave while on gives you short facts about topics you want to learn more about.
+283. Charity websites should show exactly where your donations are going. i.e 80% charity 10% marketing 10% salaries.
+284. A healthy protein fortune cookie.
+285. Kinder egg bath bomb that has a fun lil toy inside.
+286. A way to see your friend’s targeted ads so I know what to buy them for their birthdays.
+287. Erasable tattoo ink. An ink that breaks down when exposed to intense UV light.
+288. Temporary Tattoo printers.
+289. Dyson air purifiers should have an alarm that warns you when air quality is bad.
+290. AI Glasses with built-in ad blockers. AI would remove any IRL ads.
+291. Spotify dating app which matches you with a partner that has similar music taste.
+292. A hybrid of a coffee shop & a library.
+293. GoHelpMe. A site similar to GoFundMe but you offer your help or volunteer depending on what they’re trying to accomplish.
+294. An app which allows me to take a picture of a business card, the AI would then create a digital version.
+295. The cardboard within toilet paper rolls should be made out of flushable materials.
+296. Amazon should pick-up your old boxes when you get a new package.
+297. An alarm that only turns off after X amount of steps.
+298. A self-cleaning microwave.
+299. A walking app that would.
+300. SoundTracker. An app where you input any movie/ tv show to find the songs accompanied.
+301. Contact fish eye lenses.
+302. A version of Subway but you get to make your own sushi burrito.
+303. Why don’t electric cars have solar panel roofs?
+304. Minecraft amusement park.
+305. Fly swatter that makes the lightsaber noise.
+306. Instagram, but only still images. No reels. No stories.
+307. Ladder with the shape of feet to step on.
+308. A highlighter that you can only see with special glasses. A great way to highlight books without marking them.
+309. An edible skewer that comes in both sweet & savoury flavours.
+310. Doggy poo catcher that attaches to your shoe so you can slide under and catch.
+311. Reusable roll-on deodorant.
+312. Car windows that self clean when you lower them.
+313. Website to permanently swap your home.
+314. WhatsApp feature to trim your audio message.
+315. An app where I could write one review and it gets shared to all the places I want to publish – Amazon, goodreads, storygraph, etc.
+316. An app where people can share one song per day and you can also see your friend’s recommendations.
+317. AR origami app.
+318. Slippers with a clip on sole for outside use.
+319. Milk carton that changes color if the milk is spoiled.
+320. A 3D service that turns your children’s drawings into 3D objects.
+321. Social media feature to only allow you post X amount of times per day
+322. TV that follows you around your room.
+323. Soother changes color depending on how dirty it is.
+324. Cold/ Heat pack for the entire body (maybe a suit)
+325. Dyson garden leaf blower.
+326. An everlasting tea bag.
+327. Alexa feature that notices arguments and responds with calming words.
+328. Popular beaches should have sunscreen vending machines.
+329. An app to tell you your legal rights in certain situations. For example, if you’re being pulled over then you can review your legal rights for that scenario.
+330. Wikipedia for new and emerging ideas.
+331. A tool to convert Twitter threads into blog posts.
+332. A candle that smells like new books.
+333. A website where people can submit their websites for other people to rate and review.
+334. A website that shows you ratings of products or places over time.
+335. Your WIFI should auto reset when it detects no internet connection.
+336. An astrology dating app, where you can match people compatible with your natal charts
+337. A restaurant that allows you to dine with someone in another part of the world via a large screen & zoom.
+338. A bot that auto logs you in to your online meetings.
+339. I love the oats pringle style can but why don’t all cereal come in it too?
+340. An indoor flower pot that tells you if your overwatering or underwatering your flowers.
+341. A to-do list and social media hybrid. Buddies add activities to each other’s to-do lists and vote on what should be done first.
+342. A zipper that gives you a small shock if it’s open for longer then X amount of time.
+343. Brown bins should have a small feeding hatch for birds to feed on the maggots.
+344. A laptop that closes itself over when idle for X amount of time.
+345. An app that scans your food items and lets you know when the item is about to go off.
+346. Instagram feature to turn off stories/ igtv/ comments/ likes pretty much everything except posts. Bare bones.
+347. An app that shows you what you’re going to look like ‘X’ years from now if you continue your current lifestyle.
+348. Google News but only free sites, no paywalls.
+349. Tik-Tok but for poetry.
+350. An alarm clock that donates to charity every time you hit snooze.
+351. A slack feature that notifies you when someone screenshots your conversation.
+352. All videos should have a universal symbol/ icon for “Caution Epilepsy Trigger”
+353. Google maps should allow users to review sections of their route.
+354. Shower towels that has two sides. One side for upper and one side for lower.
+355. An app that accesses a different home screen depending on the entered password.
+356. GPT-3 Gift suggester.
+357. Movie theaters should offer a ten-minute intermission period for movies over a certain time to allow people to use the restrooms.
+358. Replicas of space planets where people can take vacations in different space-like conditions.
+359. Head phones which mute when someone says ‘hello’ or ‘goodbye’ to you.
+360. iCloud hide my email, but for phone numbers.
+361. LEGO that is soft enough to step on.
+362. A bike with a built-in theft feature where you can eject a spike in the seat from your phone.
+363. Caffeine-free Redbull.
+364. An app where kids do chores and earn rewards or digital tokens to buy items.
+365. Swap on-hold music for guided meditations.
+366. Marketplace to get custom build hardware. From wearables, 3d prints, or even Arduino boards.
+367. A dating app based on your Netflix watch history.
+368. WhatsApp should have a built-in translator feature.
+369. Car brake lights that increase in brightness depending on how hard the car is braking.
+370. A mixture of a personal trainer & a psychiatrist service.
+371. An alarm clock that puffs out the scent of freshly brewed coffee.
+372. Memory foam toilet seats.
+373. Ring doorbell with a thermal camera. Quickly tell if someone has a high body temperature.
+374. Microfiber shirts so you can easily wipe your glasses.
+375. A filter to remove stock photos from Google image results.
+376. An app where you can scan your old gift cards to see how much money is left on them.
+377. An oven that beeps periodically to let you know it’s still on.
+378. Replace my desktop rubbish bin with a Pac-man. I want to be able to select multiple items to delete and have the Pac-man icon move around my screen eating the items.
+379. On-Demand EV charging service.
+380. An app where you can invest in up-and-coming musicians.
+381. Dating app for fully vaccinated people.
+382. Shazam for photo filters. Upload a photo and the app will tell you what filter was used.
+383. An art hologram projector where you could project any piece of art in its true dimensions.
+384. An app where you can search for food by the macro ratio
+385. David Goggins alarm clock. David throws insults at you until you turn him off.
+386. Create a dating app for single parents and call it PlayDate.
+387. Skincare app where I  select all the skincare products I own and it automatically lists out the order I should use those products in.
+388. Create a mirror that can take a photo.
+389. AI that that reminds me whenever I start procrastinating.
+390. An app that reminds you to live in the present.
+391. Google Chrome should reorder your tabs based on how much CPU memory they are taking up.
+392. Cars should have a U-Turn signal.
+393. There should be a brake light on the back of cars that show how much pressure is being applied to the brakes.
+394. An iPhone feature where Siri will shout “OUCH” when you drop your phone.
+395. A monthly subscription service where a cleaner will come and clean your baby’s pram.
+396. Google Chrome feature that lets you know you’ve already bookmarked a webpage.
+397. Food takeaway app that will allow me to upload a photo of my house to help the delivery driver spot it.
+398. Chrome Extension for Yelp to block out restaurants so that it does not show up anymore in search results.
+399. Chrome Extension for Amazon that blocks out search results that don’t deliver to my location.
+400. An app that automatically sends gifts to your loved ones. Be useful for anniversaries, birthdays, valentines, etc
+401. Social media curse word crawler. The crawler will examine all your social posts and delete anything that contains any curse words.
+402. Virtual assistant AI that you can share your ideas with.The AI will give you feedback/ advice on your ideas and tell you wether they are any good or have already been developed.
+403. Running shoes that change color depending on how fast you are running or how fast your heart rate is.
+404. Tattoo ink that fades after X amount of time.
+405. Voice activated WIFI router. “Router please reset yourself”
+406. Chrome extension meme generator.  Quickly grab any image you see and overlay text to create a meme.
+407. My 9 month likes to play with the TV remote so it would be great to have a lock button.
+408. Ex deleter. An app that goes through all your social media posts and removes any photos with your ex.
+409. Spray-on gift wrapping.
+410. Book a call app where you can set X amount of time and that call will end when the time has run down, no exceptions.
+411. An app to store my vaccine card and show it when needed.
+412. A search engine that lets you filter out specific domains.
+413. Option on mobile to have voicemails converted to a transcript.
+414. On-demand-fuel-delivery app.
+415. An app called Traffic Jam. The app would let you can connect with people stuck in the same traffic jam as you and listen to music & chat together.
+416. An app to help you find fruit stands.
+417. Shopping trolleys with turn signals.
+418. iPhone feature that prompts you when you save a duplicate image with the option to delete.
+419. Zoom feature that would allow you to change your voice to different characters – Darth Vader, Christoper Walken etc.
+420. A microwave that turns itself off when it detects smoke.
+421. Mate Roast alarm clock app. An alarm clock where your mates insult you until you get up.
+422. We have ebooks but why not sketch ebooks. Imagine a digital sketchbook where each day your favorite artist adds one sketch every day for a year for you to view. You can view the sketch happen in real-time.
+423. Make a range of bath bombs in the style of stock cubes. You can even have them called beef, chicken, lamb & vegetable but obviously, they won’t smell as the name suggests.
+424. Your payslip should have a breakdown of where your tax is going. We need more transparency around this.
+425. A debate website where you can paste a social media link that you disagree with from Twitter/ YouTube/ Facebook/ Instagram/ Tik Tok and then talk about it.
+426. An app where I can create a collaborative stock portfolio with a group of friends.
+427. Public trash cans should have a lever to press down the rubbish so you can fit more into the bin.
+428. A social feature to “Hide this person for X amount of time”.
+429. Microwave that removes horrible odors when off.
+430. Babies sleeping bag that reduces/ increases the tog depending on the temperature of their room.
+431. A bookmark feature where it stops you from adding the same link multiple times.
+432. Autonomous shopping cart. Scan your shopping receipt and the cart will lead you on the quickest path to collect your items.
+433. Drone garden trimmer that can cut your grass and your hedges.
+434. iPhone feature to uninstall an app but then schedule to auto reinstall it at X date.
+435. A chrome extension that scans for negative/ troll comments on my social posts. The extension removes the comments while blocking the user.
+436. An app that scans any hard-to-read handwriting and outputs it into readable text.
+437. Doorbell that turns down the volume when your baby is napping.
+438. A horror ebook that has a random scary character jump out of the page to keep you on our toes.
+439. Bored games. Tinder for finding people to play board games with.
+440. A book app that will help you learn other topics of interest through book recommendations.
+441. Glassdoor for landlords.
+442. iPhone optional feature where I can watermark my videos & photos automatically.
+443. An app where you upload a photo and it generates a few caption ideas.
+444. Shazam for food. An app where you take a picture of whatever meal you are eating at a restaurant and the app will show you the recipe & the ingredients.
+445. A to-do app where as soon as you open any social media apps the to-do app will pop open with a list of your tasks.
+446. Email feature where if I paste a link into a new email it would show red if the link is broken.
+447. TV that adjusts the volume automatically depending on the scene within a movie or TV show. For example during a loud explosion the TV would reduce the sound slightly.
+448. Rotten Tomato scores should be integrated into Netflix.
+449. An app where I input junk food I’m craving and it will give me a list of healthy alternatives.
+450. A drive-thru make up artist.
+451. An alarm clock with a built in sensor where the only way to turn it off is by doing X amount of burpees.
+452. An app where I take a picture of a plate and it tells me macros.
+453. A travel website where I add my budget and plans an entire trip for me.
+454. WhatsApp feature where you could flag texts and then sends you an e-mail reminder.
+455. Create a Meetup app where you enter your location and your friend’s location. The app will then give you the best bar/ restaurant/ park etc in the middle.
+456. An app where you’re shown lost dogs based on your GPS coordinates.
+457. An app to scan a barcode and find out who the owner is of the product.
+458. A WhatsApp message sound that changes depending on how long the message is.
+459. A WhatsApp subtitle feature that converts an audio message into text.
+460. Bank app feature to warn me if making a purchase would result in my bills not being paid for that month.
+461. SMS, instant messages, and emails should have a “quiet” flag, so you can send a message to someone without waking/ disturbing them if you think they might be busy or asleep.
+462. Another version of Uber where someone would come pick you up in a classic car.
+463. Creative Mornings but for ideas. Once a week a group of like-minded individuals have a zoom call and chat about ideas that they have thought about during the week.
+464. Nail clippers for kids that make the Cookie Monster eating sound when you clip.
+465. Delete all my social networks with one click of a button.
+466. Screenshots automatically delete themselves off your phone after 24 hours, saved to the cloud just in case you need any of them back.
+467. An app where you can take a pic of your junk and it shows you what Pinterest projects you can make with it.
+468. An app that connects you to someone in the world who is interested in learning your language and vice versa.
+469. AI that goes back over all my emails, finds chains about meetings I’ve forgotten to organize, and adds a time in my diary.
+470. Walking or running app where the podcast only plays if you’re moving. If you want to finish that podcast you need to put the extra work in.
+471. Pinterest but for music. Create mood boards and add your favorite songs etc.
+472. Instead of dark mode why not have “Color mode” where you can choose from a colorful palette.
+473. Wikipedia website needs a dark mode.
+474. Twitter unfollow feature where if someone ‘unfollows’ a pop-up asks them why. Get feedback on why people are unfollowing you. Optional to turn on/off.
+475. An app where you enter a list of things you’re grateful for – your partner, kids, an upcoming holiday, friends, etc. The app then randomly notifies you throughout the day with a reminder.
+476. An app where you swipe left & right on books and it matches you with other books.
+477. Shazam for cars. Upload a photo of a car and get the full spec.
+478. An app where you can color pictures with other people.
+479. An app where I’m able to tip podcast creators on an episode-by-episode basis.
+480. AI gift scheduler that purchased and delivers gifts to your friends in time for their special day.
+481. A group alarm clock where you wake up with people on a similar sleep schedule. First-person up can wake the people sleeping in.
+482. A website that will generate a no-code tech stack for your idea.
+483. CBD finder app. Find, share, and recommend cannabis products for adults over 65+.
+484. An app that would notify you when you’re near something of historical significance.
+485. A website where you can save articles you want to read and it will randomly show you an article when you visit the site.
+486. Pub finder app where I can input my location and number of people, and it will tell me any pub/bar which has space.
+487. Lego AR that scans all your loose lego and then gives you a list of things to build with real-time instructions.
+488. An app for pregnant women where you scan a food barcode and it tells you if it’s safe.
+489. A website where you type in the perfumes you like and they suggest other perfumes that you will like.
+490. Meals on Feels – an app where you input your mood and it tells you what to eat.
+491. Instagram for gamers. A place to share game clips & screenshots.
+492. Heely should release a range of electric Heelys that you can control with a remote.
+493. An app where you can add multiple ear piercings to a photo of your ear to see what they would look like together.
+494. An app for creatives and photographers where they can pin places to shoot or use as interesting backdrops.
+495. WhatsApp should remind me to respond to texts I’ve read but didn’t reply.
+496. LinkedIn should remove those automated ‘anniversary’ and other messages.
+497. An alarm clock/ To do list hybrid where 15 mins are taken off your alarm time for every task that is not complete. This will allow you to get up earlier the next day to complete the incomplete task. You can assign a time to each task and that can be subtracted maybe.
+498. A website that you can see all the latest conspiracies.
+499. Twitter should allow you save your bookmarks into categories and folders.
+500. The ability to mute the laughing track when watching comedies.
+501. A physical LCD bookcase that displays all your ebooks. Simply click on the ebook you want and it will open on your Kindle.
+502. An app where I could scan the cover of a book I own, and it automatically emails me an electronic .pdf of the book.
+503. Website which curates the best tweet and threads on Twitter.
+504. A lock toggle for when you want to show someone a picture on your phone but don’t want them to swipe to other pictures.
+505. All libraries should have a coffee shop.
+506. Chrome extension that helps reduce anxiety by blocking COVID-19 related content.
+507. There should be an eating popcorn emoji.
+508. Dating app where you can set a date suggestion, and then you’re only shown people who want to do that date idea as well. For example “I want to visit a rock climbing wall and then go get wings & a beer after”
+509. WhatsApp feature where you could write birthday messages in advance and schedule them to send.
+510. Bathroom handle that shocks you if you forget to wash your hands after using the toilet.
+511. A baseball hat that adjusts its tightness depending on how windy it is.
+512. A way to barter your expertise for equity in a startup
+513. Tinder for couples to find a movie to watch. Find a movie you both match on
+514. A website to help you find the missing piece from your jigsaw. Simply upload a photo of your jigsaw and the AI will find, print and ship it to you.
+515. Smartphones should let you know when the person on the other end is using speaker phone.
+516. Scratch & sniff coffee bags. I would like the ability to smell the coffee before I buy.
+517. An app where you can scan the ingredients of any product and it will quickly highlight anything harmful
+518. Coffee in a juice box.
+519. Headphones with interchangeable caps in the shape of ears – cat, dog, elves, etc
+520. An app where i can unfollow everyone who follows a specific person
+521. Submit an article and people pitch headlines for it.
+522. An app where I can save articles for later reading but then receive a newspaper version of all the stories I haven’t read yet in the mail at the end of each month.
+523. An app where you upload your grocery list and they will sort it by aisle.
+524. An app where I enter my food order and it tells me which delivery service is the cheapest.
+525. Drone hedge trimmer.
+526. An app where you can find a bench to sit based on your location.
+527. Fitted sheets company that lets you enter the brand, size and then will send you fitted sheets that will fit your bed perfectly.
+528. A Spotify feature where you input the time it takes for you to get home and it comes up with a perfectly timed playlist so you never have to miss the next verse
+529. A cooking website for kids that makes cooking fun, educational and safe.
+530. A bank just for kids.
+531. An option on Uber Eats where you can enter your budget and let the website pick something for you to eat. A great way to expand your taste palate
+532. Brands on the stock market should have an upsell after you purchase their product online – “Would you like to buy some stock?”
+533. Espresso flavoured cereal
+534. YouTube feature where if someone ‘dislikes’ a video a pop-up asks them why. There dislike won’t process until they give their reason.
+535. Auto-cancel whatever I join for a free 30 days.
+536. A tool that generate high end mockups from a text, a color and a logo
+537. There are photos where we have unintentionally photobombed and it’s just on the internet somewhere… An app where you can find yourself in the background of stranger’s photos.
+538. An email AI assistant that cleans up all my unread emails and unsubscribes me from the endless junk.
+539. An app where you can create a shopping list. The app will give you the cheapest shops to purchase your items based on your location. Think Trivago for your shopping list items.
+540. Woolly hat with fake ears so it’s easy for you to put on and take off a mask.
+541. A non-profit that has access to fruit trees on people’s property. They would pick the fruit at the right time and then use the fruit to feed the homeless.
+542. A social network called Give A Fuck, instead of likes you give a fuck. “Oh I love this meme *clicks ‘give a fuck’ icon*”
+543. Your phone should show you a history of all the text you have copied
+544. Take away that only serves meals under 1,000 calories.
+545. Twitter allows you to mute words but it should also let you mute images. Upload an image you want to mute such as the ‘Bernie Sanders mittens meme’ Twitter would then remove those images from your feed.
+546. A bot that auto responds to all of your social media messages that you are away and you will respond soon.
+547. A website where you input your dream and certain specifics. You then get shown other users who had similar dreams with the ability to chat.
+548. An app to let you borrow and rent items you need from people close by.
+549. On demand buggy cleaning service
+550. Washing machine that won’t start if it detects tissue paper in the drum.
+551. My download folder should remind me every few days of files that I haven’t engaged with and also with the option to bulk delete.
+552. An app where I can remove any filter and see the original photo
+553. A printing service that will create a framed vintage silhouette portrait from any photo.
+554. An umbrella that has a waterproof surface in which you can write your ideas on. The tip of the umbrella would act as a removable pen.
+555. Custom pre-filled diaries. For example I want to get fitter, so you fill out your goals and then get send a pre-filled diary.
+556. A blank jacket you can slip over your book. Sometimes I don’t want people to know what I’m reading when in a public space.
+557. A trackpad that shows its “mileage”
+558. A TV that automatically mutes the advertisements.
+559. Shazam for flower smells
+560. A “Phone” built with interchangeable lens options and other plug n play accessories (shotgun mic/lighting/etc.) that is used for mobile live streaming and video creation through apps like TikTok and Instagram.
+561. A customized package of apps for you to get started running your own business or next project. Get app subscription discounts and learn what works for you.
+562. Bluetooth preference that reconnects to correct headphones without having to re-pair if you got out of range for a second
+563. Mobile phones should allow you to screen share your phone with support to help fix your issue
+564. Face masks that change your voice to Bane.
+565. A dating app that once match with someone, you can’t match with anyone else until you unmatch with that person.
+566. A calendar app that responds to new meeting invites with a $ figure of how much that meeting costs you per hour. “Hey, are you free to jump on a quick 30 min call to talk about a new project” App will auto-respond with an automated “Sure thing I charge $150 for 30 mins of my time. Please click here to book it in”
+567. A zoom feature that if the same person has been talking for too long, The Oscars “Wrap it up music” plays
+568. Data-driven wishlist. A way for me to see my close friends & families targeted online ads so I can get them better gifts.
+569. Phone app where if I place my phone near another phone it will sync with the calendar and book in a time to meet up, other features could be share number, email, notes, documents etc
+570. An app where you enter media you didn’t enjoy and it will match you up with people who also didn’t enjoy it.
+571. An advice column app that younger people can write into and is responded to by our elders.
+572. DocuSign just for NDAs.
+573. Digital sink that tells you how many dishes you need to clean and who cleaned what. Think of it as an email inbox – “You have 3 uncleaned mugs, this week top cleaner was Katie.”
+574. Microwave style car cleaner. The car sits on a turntable where it is cleaned and then dried.
+575. Fingerprint doorbell. The doorbell would recognize the fingerprint of anyone who was added to the database. Each user has their unique ringtone.
+576. A tool to help you get feedback on responses to people’s emails.
+577. An AI tool that scans your pitch deck and gives you ways to improve.
+578. A website that helps you choose where to live based on your goals. For example I want to go for forest walks, join Crossfit, eat healthier, work for X and my budget is X.
+579. Author reads aloud app where authors read their books to a small group of fans and then at the end you can ask the author questions.
+580. Podcast where Morgan Freeman reads you bedtime stories.
+581. Bernie Sanders should launch his own range of mittens.
+582. Create a Chrome extension for Amazon that tells me where I can buy an item locally.Help support your local businesses.
+583. Temperature control baby bottle that allows you to set the precise temperature of your baby bottle. The tech already exists
+584. An app where your alarms sync with your calendar
+585. A marketplace to purchase ads on popular newsletters.
+586. A matchmaking app that connects designers and developers based on projects, interests, wants, ambition, skills and more.
+587. Someone invent an easier way to clean a waffle maker
+588. Batteries that vibrate when they are about to lose power. We need a better way of knowing when batteries are about to die.
+589. The volume of your car increases/decreased depending on it’s surroundings. Window down – volume up etc.
+590. A babys bottle that changes color when the milk becomes spoilt.
+591. Someone print and sell a real version of the Windows Solitaire deck of cards
+592. Kids bunk bed with built in ebook reader on the roof so they can read there favorite stories at night
+593. A bathroom sink that that flushes from the rim just like a toilet
+594. A oven barcode system that lets me scan the box to begin cooking the food for the right amount of time and power level.
+595. Email feature that tells me how much of an email the recipient actually read.
+596. An app where you could flag texts and then it sends you an e-mail reminder.
+597. Sleep Bet App. Bet money that you will wake up at a certain time. Winners split the earnings that are lost by those that lose.
+598. Custom newspaper delivery service. Have your very own newspaper using RSS feeds delivered to you daily or weekly.
+599. An alarm clock that sprays you with water to wake you up. Add your oils for a custom smell.
+600. Amazon filter to let you sort results by delivery times.
+601. Amazon should let you return items by scheduling a pickup along the driver’s route like they do for a delivery.
+602. Photoshop voice-controls for basic editing. “Adjust the contrast by 10% & export image for web as a PNG.”
+603. A campaign/funnel landing page AI bot that provides various size and position design suggestions to your landing page url based on the data of popular designs.
+604. Lottery seed funding. Like Kickstarter, except you buy votes on new products/services and the top product gets all of the money each round.
+605. On demand car defrosting service.
+606. AI-enabled smart storage unit that identifies and sells items shit that you haven’t used for years.
+607. A way to remove all Pinterest results from Google image search.
+608. Twitter bot that screenshots any tweets with the words “My New Years Resolutions are…” it will then tweet you with the screenshot on the 31 Dec to let you know what a failure you are.
+609. A chat recording service. My dad has lots of interesting stories and lived an eventful life. As a new parent I would love my kid to hear these stories when she gets older. Imagine a service that could record a conversation both audio & film between my dad and me, edit it and then give me the recording on my perferred medium – vinyl, cassete, cd or digital.
+610. Launch a range of Cockroach milk. (Cockroach milk is three times as nutritious as cow’s milk)
+611. An option on Amazon to filter out “does not deliver to ‘select country’ ”
+612. An app where you enter a show you want to watch and it tells you what streaming service has it for free.
+613. Read and swipe dating app based on descriptions. If you swipe yes, you then get to see pictures and decide whether or not to go through with it.
+614. Start naming natural disasters after companies that contribute the most to global warming.
+615. iPhone feature where ivy slowly grows on icon shortcuts that don’t get clicked on in a long time.
+616. Google Maps should send me a push notification if I get close to a place I added on my “Want to go” list.
+617. Similar to  Reddit, all social networks should have the ability for users to award other users. The awards could be converted into certain rewards – gift cards, ad spend etc.
+618. Air freshener device that shouts insults at you when it detects your car being smelly. “Oi piggy this car is disgusting, clean it now!”
+619. Self-disinfecting door handles on bathrooms.
+620. Dating app for people who got dumped, the app finds you matches based on photos of your ex.
+621. A phone that offers both vertical and horizontal views when recording.
+622. Replace on-hold music with a choice of an audiobook or a podcast.
+623. Washing machine metal detector. The detector would tell you if there is anything metal in the machine before you turn it on.
+624. A group alarm app.  
+625. A social network where you can create and use your own font.
+626. Garage sale finder app. Find local garage sales in your area with feedback and ratings of each garage sale.
+627. A better way for deaf people to access Podcasts.
+628. A chrome extension to auto convert any WeP file into a jpeg when downloaded.
+629. Social network lotto. Each month pay $X amount to enter a lotto to win 1 million followers on Facebook, Twitter, Instagram etc.
+630. Create a font out of a scanned letter. Preserve your loved ones handwriting forever.
+631. Metacritic for restaurants.
+632. A shop that sells custom sized gloves. Place your hand on a scanner and a machine will create gloves that exactly fit your hand.
+633. Guess the sound. An app that plays a sound and you have to guess it.
+634. GoFundMe for movies/ tv shows. Bring back your favourite tv show.
+635. An app that finds a halfway point for you to meet with a friend.
+636. AI that recreates your hand writing and sends birthday, Christmas cards every year automatically to your family and friends.
+637. Gas delivery service.
+638. A website for designers and developers to pitch their projects to each other for partnership.
+639. When our brains get linked via neuralink someone will build a marketplace for IQ – “Rent a developers brain for X amount of time”
+640. Swap printed receipts for digital. If I pay with my card then the receipt is sent to my bank or phone where I can see a digital version.
+641. Create 2 metre Christmas crackers.
+642. Instead of greeting cards, Break Up Cards, you send them when you want to break up with someone.
+643. A public toilet that detects when someone is peeing all over the seat and sprays their piss back at them.
+644. AI Present Scanner. AI that scans your friend’s social accounts and suggests presents to buy based on their engagement.
+645. A kindle cover that smells like books.
+646. Netflix should have a Blooper section.
+647. Pram with a heated handlebar.
+648. An app that can tell whether your cough sounds like COVID.
+649. A book that helps you come up with great ideas
+650. Rechargeable reusable bracelets teachers can handout for field trips and track them all via native FindMy app devices.
+651. A digital vinyl player that applies a vinyl crackling sound effect to what is being played, giving it a retro radio aesthetic.
+652. Apple FaceID recognition even with a facemask.
+653. A plug-in that alerts you when watching YouTube, if the presenter is actually sponsored by that product or not.
+654. Drone metal detector for the ocean.
+655. A community platform for local businesses. The owners can share insights, sell courses on how to grow business in their niche or franchises.
+656. Netflix auto generated watchlist similar to Spotify’s Discover Weekly.
+657. An alarm clock that charges you  X amount each time you hit snooze.
+658. Personal KPI dashboard. An application in which I can write down my goal, link to it financial indicators or health indicators and make the stages of achieving the goal integrated into the calendar. In this way, you can monitor the achievement of goals, plan tasks, and measure progress.
+659. App where you hover over a plant and find out about the optimal conditions and care for it. Similar to Translation apps where you hover over an image or text and it translates.
+660. A GMAIL feature to block all “Out of office” auto response emails.
+661. A browser plugin or app that allows users to screen record a broken app/site UI issue or error with details like device internet connection strength. Users upload recorded session to tweet link or submit it to the company to fix.
+662. An app where you take a photo of how a car is parked. An AI detects the license plate. You can only send the text “you park great/ terrible”. When someone registers with their license plate, they are shown all the feedback they got.
+663. An app that automatically links to your Spotify playlists for music when you’re put on hold by customer service.
+664. A collaborative playlist where you can add and upvote tracks to move them forward in the queue. You should not be able to skip the currently playing track. Backed by your favorite music provider such as Spotify.
+665. Subscription service that gives you a refrigerated box with vision sensors. You choose your items and then every time you want groceries you place the box outside your house and it senses it and a drone delivers your shopping directly to the box
+666. Wardrobe with a built in steamer. Help to kill bacteria and freshen your clothes.
+667. A simple todo app focused on tracking how long tasks took from start and finish to predict future task time estimates
+668. A service that was tied to my todo list and held me accountable for things I didn’t do that week. The service would give me an automated call / text telling me what I was missing & give me tips to catch up.
+669. America’s next top model but for Graphic Designers.
+670. A heated bike saddle for the cold days.
+671. A baby bottle that changes colour when it’s at the perfect temperature for feeding.
+672. Aroma alarm clock that releases a smell that starts off gentle but gets more pungent the longer you ignore it.
+673. Toothpaste should come in aerosol cans similar to whipped cream.
+674. A smart fridge that turns down the light when you open it at 2 am.
+675. An app where your goals are represented by flowers. The more you work towards your goal the quicker the flower will grow. Stop and your flower will wither and die.
+676. After Effects should suggest videos to watch within the rendering box.
+677. An app where you scan food and it will list the health benefits.
+678. Bed sheets should all have standardized markings to indicate the ends and sides.
+679. Car freshener that smells like freshly brewed coffee.
+680. Netflix feature that lets you create a custom queue of different TV episodes.
+681. Start a TV club where a few people watch a set amount of episodes a week of a series and get together to discuss.
+682. Mayo & ketchup squirt bottles that have nozzles on both ends.
+683. Bank Cards should use a QR Code to store information. The current contacts of the chip get damaged easily.
+684. A smart television that is smart enough to recognise that kids are watching too close and turns itself off
+685. Battery plug that unplugs itself from the socket after your device is fully charged.
+686. An alarm clock that gives away spoilers to your favourite TV shows the longer you sleep.
+687. Solar panel beach umbrella. Charge your phone at the beach.
+688. A smart microwave that automatically stops and stirs your food halfway through the power duration.
+689. Plastic spoons that you peel a cover off of and they are full of peanut butter or Nutella.
+690. A dating app synced with a wearable ring. When you’re in proximity to a match your ring glows brighter the closer you get.
+691. A website that connects cosplay with hospitals so they can visit sick children and cheer them up.
+692. Google Maps should have a safety rating for routes filter.
+693. IMDB scores should be integrated into Netflix.
+694. Marvel should create a CGI Stan Lee to keep the cameos going.
+695. An IMDB for startups. The ability to search for a startup idea and see if it’s been done before and if it was a success or a failure. Features such as team size, sales, insights are included etc.
+696. Free bus journeys with the requirement that you must watch ads for the entirety of your bus journey.
+697. An app where a random song would play that matches the amount of time it will take for me to get home.
+698. A time-delay capsule that contains 400mg of caffeine. Take it before you go to bed. 8 hours later it begins releasing the dosage.
+699. There should be a breathalyzer to show how sick you are. This would be fair to employers/employees alike. Measure amount of bile, pathogens in breath/blood
+700. Anyone who wants to buy a gun should have to get approval from a Psychologist before purchasing.
+701. Google map should have a ‘noise level’ filter for streets — can be helpful when booking a hotel (Pre-Corona Idea).
+702. Toilet paper rolls should be made out of flushable materials.
+703. A Chrome Plugin that removes Pinterest links out of all Google searches.
+704. Instagram should auto suggest hashtags based on what you’re posting about.
+705. Peloton for Wheelchair users. A great way for the disabled to join a community and still keep fit while indoors.
+706. An app where you can share anything and ask the users to roast it. Roast my photo. Roast my drawing.
+707. Tinder for racket games. Match with people to play different racket games involving two-player games – tennis, squash, badminton, beach tennis and so on.
+708. A car with a built-in drone camera. The camera can help you deal with blind turns, corners or curves.
+709. A cologne that smells like new books.
+710. A dating app called discovery. When you match with someone the app will choose a spot for you to meet. The only directions you will have will be given by a compass.
+711. Kids toilet called cookie monster. Every time you flush the toilet will scream “SNACK TIME” and make the cookie monsters eating noises.
+712. An app that every day gives you a concept with a 24h limit to create a drawing, photo or a short piece of text around the concept.
+713. Tinder to help couples decide on things. Each partner would add what movies, tv shows, places to eat, recipes to make, places to visit that they like. They would then swipe left or right on what their partner has added. A way to help couples decide on what to do.
+714. A water bed that gives the illusion you are floating on an inflatable at sea – seagulls, waves crashing and similar wave movements.
+715. Apple watch should have a blood glucose monitor feature.
+716. Netflix should create a subtitle feature to help you learn a new language. It would swap out a random word into the language you are trying to learn.
+717. Gun safes should have a breathalyser test. If you are over the level the safe won’t open.
+718. An app that converts speech into sign language.
+719. Airpod cases should double up as a controller.
+720. Anti-social network phone that allows you to only post three times per day across all social networks.
+721. Onlyfans for chefs. You subscribe to a chef and get cooking ideas, recipes, videos etc.
+722. Windows that automatically open when they recognise smoke.
+723. Recipe chrome extension that extracts the actual recipe. No more endless scrolling looking for the god damn recipe.
+724. A candle that has that new book smell.
+725. An app that matches you to people who highlighted the same passages while reading.
+726. Hard reset app. Connect all your social accounts to the app. Once connected you can do a hard reset on all your followers or all your content or both. Start fresh.
+727. A light on your laptop that changes color depending on your wifi speed.
+728. Netflix option to remove the laughing track on sitcoms.
+729. A service that provides custom jack-in-the-box.
+730. Charity boxing match between Elon Musk and Jeff Bezos.
+731. A text editor where Pac-Man will start eating the text whenever you press backspace.
+732. AI chrome extension for anxious people. You flag any posts that make you anxious across any social network. The more posts you flag the smarter the AI will become in auto-blocking.
+733. iPhone feature to assign different ringing levels to different people. i.e set my family & work too loud, all others to medium.
+734. A noise-cancelling toilet, so you don’t wake your partner up at night or in the morning.
+735. A mini cement mixer that you can mix ice/drinks in.
+736. A recycling bin that compresses my trash allowing me more space to fill.
+737. Instagram feature to blacklist posts that use certain words or hashtags.
+738. An app that would allow you to sell multiple items on multiple platforms. Create one listing for each item and the app would post the item to ALL platforms (eBay, Amazon, Facebook groups etc).
+739. Tinder for actors. Where fellow actors can meet and go over their lines together.
+740. An app where you can exchange unwanted Christmas presents.
+741. A microwave that won’t turn on if it detects metal.
+742. Book club finder app. People get matched into a group based on their reading interests.
+743. iPhone feature called ‘Fortune cookie’. When you break your screen a fortune cookie will pop up with some words of wisdom.
+744. Fruit that has stickers on them should sell space for another sticker as Adspace
+745. AI that dumbs down wordy eBooks into basic English.
+746. Flavoured lemon, lime & other fruit-flavoured ice cubes. You could add the cubes to your soft drinks or alcohol to enhance the flavour rather than the generic water ice cubes.
+747. Goodreads for Podcasts – A place to share, discover and track podcasts.
+748. When you search for a shop/ bar/ restaurant on Google it should tell you whether it is mandatory for a mask or not.
+749. YouTube feature where if someone ‘dislikes’ a video a pop-up asks them why. Their dislike won’t process until they give their reason.
+750. Remove my ex. An algorithm that removes a selected person from all your photos.
+751. Clothing company should start selling masks that match their upper-body apparel.
+752. A news app that only delivers positive news.
+753. An app where I add my favourite artists and when they announce a tour ill receive an alert.
+754. Sports fan app. A select amount of fans will have access where they can cheer during games which will play into the stadiums. Each seat would have a speaker that’s connected to each fan’s phone.
+755. An app where you partner up with people and watch each other’s favorite movies and then talk about them.
+756. An app to block a person on all social networks with one click.
+757. Filter finder. An app where you screenshot a photo and it tells you what filter/editing that person used.
+758. FaceRuff. An app where you create a social profile for your dog. You can follow other dogs, go for walks, tag each other in photos.
+759. Music app that can detect your running speed and alter the music in realtime to fit your tempo.
+760. A device that can locate annoying sounds.
+761. An app where I scan my grocery receipts and it will track the prices of the items I buy most frequently so I can know when something is on sale for a good price or not.
+762. GoHelpMe. A site similar to GoFundMe but you offer your help or volunteer depending on what they’re trying to accomplish.
+763. Spotify/ Apply Music should add the ability to discuss the song you’re listening to with other users in real-time.
+764. An app where people sign up to show up at dirty Airbnb rooms and leave it cleaned up in exchange for staying free.
+765. A smart television that is smart enough to recognise that kids are watching too close and turns itself off
+766. Substack for Podcasts.
+767. A zip that if left unzipped for more than 1 min starts screaming
+768. Develop a jacket with airbags for protecting elderly people when falling.
+769. Auto applies job app. Upload your CV, Cover Letter, and personal details. The app scrapes all jobs in your industry and auto applies to any new relevant jobs.
+770. A to-do app where as soon as you open any social media the to-do app will pop open with a list of your tasks
+771. Create a green vegetable smoothie recipe for kids and call it Hulk Juice.
+772. A cooking app where each recipe has its own music playlist that you can listen to while cooking.
+773. Smart tv with a built-in adblocker.
+774. Gofundme for cancelled TV shows. Bring back your favorite shows.
+775. Tinder but for filmmakers to match with scriptwriters
+776. Laptop trackpad that only works with your fingerprint.
+777. An app that scans all your social media and removes any content that could come back and bite you on the ass.
+778. Chrome tabs should reorder themselves in order of memory usage.
+779. Drive-thru wash built just for washing motorbikes.
+780. Garden foot gloves for the armless.
+781. You should be able to change the speed of WhatsApp voice messages
+782. QR code that people can scan to tip buskers and street performers.
+783. A browser extension that would automatically hide all the “Cookie Law” pop-ups.
+784. Stackoverflow for designers.
+785. To get kids to wear Facemasks create a series with superhero designs.
+786. You should be able to set the frequency of tweets you want to receive from an account you follow.
+787. Tesla self-driving feature should have an “I’m Feeling Lucky” option that drives you to a random location.
+788. Someone should create a website where you can filter available jobs by % of diversity.
+789. Police should wear jerseys with a large QR code. Next time you’re filming the policeman’s details will appear – name/ profile photo/ badge number etc saved to your phone.
+790. Reflection day. A day where the citizens of the world take a day off and reflect on how we can improve as a nation.
+791. Personal analytics software that gathers and examines your browser history, email newsletters, social accounts, apps, bookmarks and presents it graphically.
+792. Twitter feature to create a word cloud out of a thread.
+793. Chrome extension that automatically declines all GDPR, cookies, email newsletter sign-ups, follow us, etc pop-ups.
+794. A product that allows me to read newsletters on an e-ink display.
+795. A motivational alarm clock for entrepreneurs that is synced with your Stripe account. The alarm wakes you up with your Stripe balance. “Morning David, today you have $2,100 in your account, you made $150 while you slept. Your goal for this month is $3,200”
+796. Lego AI scanner app. Scan your lego pieces and the app will provide instructions for more models to build.
+797. A Twitter feature where the best threads are curated under different categories.
+798. Duolingo music feature that would replace random words from your beloved songs with your chosen language.
+799. A social media platform exclusively for artists/content creators.
+800. Shazam for dreams.
+801. An iPhone call feature where I could set a time for any call. SIRI would announce to the caller the duration of the call before I pick up “This call will end in 5 mins”.
+802. Twitter & LinkedIn should allow you to filter out all ‘I got a new job!’ posts.
+803. On-Demand Portable Toilet Service. Businesses are closed and nobody wants to use public toilets.
+804. You Got Mail. A smart outdoor mailbox that sends you a notification when you get mail.
+805. An app where you hover your phone camera over a link on a paper, or on your laptop, and it copies the link to your clipboard.
+806. An iPhone feature that automatically sends my 5 favorite photos to an online printing service. Popularity is based on how many times I viewed a photo.
+807. You should be able to change the voice for any audiobook.
+808. All restaurants should have a QR code for their menus.
+809. Social networks should allow you to block a user for a select number of days, months or even years.
+810. Finance and entrepreneurship should be taught from a very young age in every school.
+811. Netflix should give you an “always skip intro” option.
+812. Friend reminder app. The app will auto message a friend that you haven’t contacted for a while with a preset message such as “Hey buddy, how are you?” It will help keep friendships alive.
+813. Netflix shuffle episode option.
+814. An “unsend message” option for iMessage
+815. A “close friends” twitter option.
+816. VR game that teaches you magic tricks.
+817. Tinder but for finding side-project collaborators.
+818. Plant pots that change color when they are dry.
+819. A smart car that recognises your mood when you get in and selects the right music for the moment.
+820. An app where you can point your phone’s camera at any logo and have it tell you who designed the logo and any previous versions.
+821. Google search should have an option to ‘show me companies impacted by COVID-19’ first.
+822. Chrome extension that tells you the word count of an article, so you know whether you have time to read.
+823. A website for discovering the most popular remote work tools.
+824. Google Chrome tab feature where I can add background music.
+825. Chrome extension that helps reduce anxiety by blocking COVID-19 related content.
+826. Twitter should auto suggest hashtags based on what you’re tweeting about.
+827. An app where you can take a picture of your plate and it calculates the calories
+828. Chrome extension that auto-blocks any TikTok videos.
+829. Find my TV remote app with a voice assistant.
+830. Netflix should have an episode review feature. so if my partner misses an episode they can watch a 60-second review. Save me having to watch it again.
+831. iPhone feature to record sound on your photos. When you take a photo your phone will record a 5-second audio snippet to help you relive the moment even more.
+832. A shopping list location app that sends you a reminder notification when you’re nearby a place where you can buy a list item.
+833. An app that connects people who want to learn a certain skill with teachers who can teach them that skill. Tinder for skillshare?
+834. An app that randomly sends you a notification every week to take a photo within 60 seconds. The app compiles your photos into a montage.
+835. Childs toilet that after they have done the business and stand up they get a round of applause.
+836. Apple should create a feature where if you try to take a group selfie a pop-up message will appear asking you to “please practice social distancing”.
+837. Soap that changes color after 30 seconds.
+838. Laptop light to indicate if your microphone is on/off.
+839. An app to tell you where the closest shop has toilet paper.
+840. An app to report large social gatherings.
+841. An app where I can play a song and it will tell me the chords depending on my chosen instrument.
+842. An app where you can buy nurses, cleaners and doctors breakfast/ lunch/ dinner or coffee.
+843. All museums should create virtual tours of their attractions.
+844. SMAA — Social Media Addicts Anonymous. SMAA is a Twelve Step Fellowship dedicated to helping anyone suffering because of their Social Media Addiction.
+845. All libraries should deliver books.
+846. An app where people mumble a bit of a song they don’t know the name of, other users can listen and tell them what the name of the song is.
+847. Youtube best bits. A youtube clone that condensed all the best bits from a video. People always post comments like “scroll to 1:23 for the best bit” so why not automatically edit a video based on the user’s comments.
+848. Ghost pepper-infused hand sanitizer, it would kill germs and stop you touching your face. #coronavirusidea
+849. A motion sensor stovetop burner that switches itself off when it’s empty and left unattended for more than 1 min.
+850. Self-storage facility for food. For people who need to buy in bulk but don’t have space at home.
+851. A wearable ring that would shock you if it sensed you were about to touch your face. #coronavirusidea
+852. Dating app that lets you filter users by their work schedule.
+853. AR app that shows you what the plant looks like when you scroll over the seed label.
+854. A browser extension that blurs pictures of anything you have phobia off – Arachnophobia, Apiphobia, Musophobia etc
+855. Duolingo alarm clock feature that wakes you up with a new word in a language you’re trying to learn.
+856. A monthly subscription box for plants & seeds
+857. Video Conferencing software that automatically mutes the person munching/ chewing on an open microphone.
+858. A chrome extension that tells you what the password requirements were when you were creating the original password.
+859. An app that automatically cancels all your recurring credit card payments for services you don’t use after the second month.
+860. Facebook Marketplace app that scans your junk and automatically tells you how much you could make if you sell it.
+861. Netflix app where if I’m on my phone and watching a tv show with subtitles then they appear on my phone so I don’t miss out.
+862. Police officers should have to do a fitness test EVERY year.
+863. A voice-activated car horn. Next time someone cuts you off just yell “CAR HORN” to activate your horn.
+864. A blank ebook but each day the writer adds one page every day for a year for you to read.
+865. An Apple Music feature that starts your favorite songs in English and the more you play the more it slowly replaces words and then full sentences into a different language.
+866. Taste Buds. An App where families can vote on what to eat for dinner for the week.
+867. An app where people can track and share scenic drives that are near them.
+868. Github for musicians.
+869. Shazam for identifying sneakers.
+870. Boxes that fold into the smallest possible shape so it reduces space in your bin.
+871. An app that randomly sends me ridiculous challenges. For example, “You must signup and complete a marathon in the next 3 months.
+872. Google map feature where you can look up various locations to see if the leaves have changed color yet.
+873. Build Wind Turbines next to airplane runways.
+874. Gmail feature where if I paste a link into a new email it would show red if the link was broken.
+875. iPhone Contact reminder feature. The ability too quickly set an audio reminder when you finish a call. The reminder would be associated with that person so you could quickly listen back.
+876. Connect lonely elderly people with people who are trying to learn their skill. Given the choice, I would choose to learn how to become better at X from someone who has 40+ years of experience with X. In my opinion, sometimes experience is more valuable than a piece of paper
+877. A way to limit tweets from certain accounts. There are accounts I like to follow but they tweet way too much. Show me 2-3 tweets of the most popular tweets per day.
+878. Candy Crush type game that has a feature where children get more lives when they do their chores.
+879. A to-do app where as soon as you open any social media the to-do app will pop open with a list of your tasks
+880. A 4 in 1 shower product that shampoos, conditions, body wash, and toothpaste.
+881. Fitbit should create a VR zombie shooter game which is synced to your wearable device. Your heart rate would dictate how stressful the gameplay would be.
+882. The ability add your timezone to WhatsApp.
+883. Why don’t all the big tech companies (Skype, Facebook, Amazon, Gmail) offer pared-back versions of their products for the elderly (non-tech-savvy)? It could include increased button/ font sizes, remove unnecessary features/ clutter, better phishing preventative systems etc
+884. An app where you set a budget, select a few local restaurants, click shuffle and the app will deliver a surprise to your home.
+885. Create a location based app that would alert you if you were close to the vicinity of a reported case of the virus
+886. Tesla auto video/audio record function for when you get pulled over by the police.
+887. An app where you could check how busy a coffee shop was before going.
+888. Adaptive volume – a feature where a phone’s volume can adapt to its surroundings.
+889. App where you rent out space in your home for storage
+890. App to convert my Apple Music Playlist to YouTube Music Video Playlist or vice versa.
+891. A dating app that slowly un blurs the profile photo the more you chat to that person. Focus is on conversations and not vanity. You could call it Clarity.
+892. A TV that automatically pauses when you are out of range of the TV.
+893. An app to find the closest public drinking fountain.
+894. Live fact checker that alerts in real time, lies being told during anyone being interviewed.
+895. A gym motivation mode on your phone. When it knows you’re in the gym and senses that you’re texting or on scial media it will flash your old fat photos or motivational photos you uploaded. It will automatically enable ‘do not disturb’ mode
+896. Car doors should have built-in intercom for when you when it’s raining and you want to go through a drive-thru.
+897. An ad blocker that replaces ads with tasks from a to-do list. (Looking for a developer to help me build this – contact me if you would be interested)
+898. Movie tickets should be based on how popular they are on release. So if a movie is flopping for e.g Cats, then the tickets are $2.00
+899. An app where you type in the medications you’re on and it will tell you the possible negative drug interactions.
+900. Audiobook should display a metric for a number of times read. There are books I’ve read multiple times and would love to read books others read multiple times.
+901. Shazam but for celebrities.
+902. All chewing gum should be biodegradable.
+903. A Twitter feature to delete any tweet that contains a chosen word.
+904. iPhone feature where you can select specific apps to shuffle there position on your home screen, by doing so it would reduce the usage of the selected apps – Instagram, Facebook etc
+905. Movie theatres should have a creche, where you can leave the kids while you watch your movie
+906. Cars should switch to parking lights when you put it in Park.
+907. A website that takes your age and tells you what people accomplished in the ages older than you. For example – Charles Darwin was 50 years old when he published “On the Origin of the Species”
+908. MacBook feature that automatically converts any .webp into a .jpg when downloading from the web.
+909. When you hover over someone’s username it should show all that person’s name changes to help you remember who that person is.
+910. Compost app that when you scan a plant it will tell you what combustible materials suit the plant or don’t.
+911. Tesla cars should be able to charge each other.
+912. Podcast app that can replace people’s voices with Morgan Freeman or David Attenborough.
+913. Uber for your household items. Lend your idle powered drill for money.
+914. An app that lets you record and digitally sign verbal agreements.
+915. Confetti bomb delivery service. Send a person to deliver a confetti/ glitter bomb and surprise/ ruin someone’s day!
+916. Netflix ‘watch random episode’ button. Occasionally I just want to watch a random episode of a TV show and don’t like being made to pick.
+917. Waze for lost & found pets. If you find a lost pet you take a photo & pin-drop it’s location.
+918. Fridge handles that shock you at night to stop late-night snacking.
+919. Netflix should have a Wrapped 2019 like Spotify. You could share your most viewed movies/ shows, minutes watched and other analytics.
+920. A streaming service that takes in canceled tv shows, the shows are decided by its paying users.
+921. Happiness reminder app. An app where you enter a list of things you’re happy for – your partner, kids, an upcoming holiday, friends, etc. The app then randomly notifies you throughout the day with a reminder.
+922. An app like Tinder but matches tourists with locals to hangout.
+923. Twitter should provide users with a list of options as to why they are unfollowing someone
+924. A music box with a pencil sharpener.
+925. Premium styling service which uses a body double who goes clothes shopping for you.
+926. A fridge with a built-in AI juicer which holds all your veg/ fruit. When the juicer detects any fruit that is starting to ‘go off’ it will auto blend for you.
+927. Fly tracking app called Swat.
+928. Hulu. Netflix, Disney+ should have a stand-alone app where you could listen to soundtracks of the movies/ tv series that they own.
+929. Cinema candy should be sold in zip lock bags to reduce noise.
+930. Shazam for food. An app where you take a picture of whatever meal you are eating at a restaurant and the app will show you the recipe & the ingredients.
+931. Drive-thru restaurants should project their menu onto your windscreen.
+932. An email AI to automatically optimize the emotional tone of writing depending on who you’re writing too.
+933. Uber for printing. An on-demand printing service.
+934. Tesla with a built-in coffee maker.
+935. A butter dish that keeps your butter to a spreadable state. No more hard butter
+936. A dating app for a bibliophile. Swipe or click on a person’s profile based on your shared interest in books.
+937. Place dog shelters and retirement homes in the same building so the elderly don’t get lonely and the animals have people to interact with to help them engage more with humans.
+938. Podcast app that can replace people’s voices with Morgan Freeman or David Attenborough.
+939. A smart plate which is split into 3 areas – carbs, protein & fats. The 3 areas will increase/ decrease size depending on your body goals.
+940. Social media blocker app called Thanos. The app will delete all social media icons for a set amount of time giving you more time to focus on things that actually need your attention.
+941. Create a greenhouse that also serves coffee.
+942. A Twitter feature where I can unfollow inactive/ ghost accounts.
+943. Rubbish app. An app that locates bins nearby to help you dispose of your rubbish.
+944. There should be a way for a parent to read their child a bedtime story remotely.
+945. Enable push notifications airport announcements.
+946. Twitter should offer ‘Unfollow Suggestions.’
+947. WhatsApp option to send self-destructing messages.
+948. A website/app to plant swap with other people.
+949. Convert movie DVD commentaries and repackage them as podcast episodes.
+950. Social networks should remove all ads in your birthday
+951. There should be one day where everyone tries to go 24 hours (if possible) without going online.
+952. WhatsApp feature where if you message someone who is presumably asleep it tells you the current time in their time zone.
+953. WhatsApp feature to preview audio messages before sending them.
+954. Tesla feature where you can chat to other Tesla drivers if you’re in a certain distance of each other.
+955. Digital restaurant menus where you can filter by most popular, read reviews, shows you the dishes you’ve ordered in the past, plus more.
+956. Tesla auto video/audio record function for when you get pulled over by the police.
+957. We have spray-on plasters but why not spray-on gift wrapping?
+958. A browser extension that reads aloud any selected text.
+959. A way to monitor your laundry from your phone.
+960. FaceApp but for your animals
+961. TrustPilot for Healthcare
+962. An app using object detection to tell you what items you can recycle and what bin to put it in.
+963. A way to browse the web with a group of friends
+964. App called ‘Pocket Money’. Parents set credits for chores completed. The teens can then use those credits for prizes i.e “attend Kates 16th birthday”
+965. An app where you enter your skills, certifications, and tools used and it tells you possible roles.
+966. Language learning/ alarm app where you translate sentences to turn off the alarm.
+967. IMDB but for theme parks.
+968. Yelp for landlords
+969. On-demand board games. Have your favorite board games delivered to your house. Return when finished
+970. Book app where you input all the books you’ve ever read and it will give you a top-level overview of what topics they covered. The app will help you learn other topics of interest through book recommendations.
+971. A Russian roulette call feature on your phone. A great feature to talk to random people from your contact list.
+972. Machine learning therapist app. You connect all your social media accounts and the app will tell you what issues you have and how to improve.
+973. Create a VR sports channel called POV (point of view), be great to watch a game from the refs POV.
+974. Google map should have a Trick or Treat filter to let you know which houses to knock too.
+975. A dating app that syncs with your library card and matches you with people.
+976. A lift that doesn’t close if it recognizes that someone is approaching and that there is enough room for that person.
+977. When booking an airplane ticket you should be able to choose a preference for “sociable” or ” unsociable”. You are then seated beside a match.
+978. A game called ‘Piggy Bank’ where you look after a pig by paying for food, taking it to the vet, buying it toys, etc. The game requires you to spend real money which goes into a savings account.
+979. A website where you can send letters to children with serious illnesses.
+980. A necktie that shocks you if you have been inactive for more than X amount of time. You can set the X.
+981. An urbandictionary.com version of scrabble.
+982. Create a subscription app that keeps track of all your online subscriptions.
+983. Public bathroom doorknob that shocks you if the sink isn’t used after you’ve flushed the toilet and try to exit.
+984. Gesture recognition that allows you to quit/ close any open applications on your computer when you fire finger guns at your screen. Making the ‘pew pew’ sound completes the action.
+985. A browser extension that auto accepts the cookies and banners.
+986. Skype recognition feature that automatically mutes you while you’re eating and lets everyone else know with a status update “David is currently eating”
+987. Apple Music should have a ‘memories’ feature similar to Snapchat, which shows your most played songs from a selected date.
+988. A mattress that’s soft when you go to bed so to help you sleep. Once the bed recognizes you’re asleep the mattress will begin to harden for better back support.
+989. Uber for hiring security.
+990. Daily scrum app. The app would allow you to find people working on similar projects – allowing you to bounce ideas off one another and maybe even collaborate.
+991. An alarm clock that is affected by the weather. If the weather falls below freezing then the alarm will adjust itself to go off 10 mins earlier allowing you extra time to defrost your car.
+992. Airbnb for storage (warehouses).
+993. Facebook should tell you how many times a link has been shared before you share it.
+994. A gas cooker that has a smart pressure system. When the cooker has recognised that the gas is on and there is no pot/ pan it will turn itself off automatically after a set time.
+995. Alexa feature where I can tell her what I have in my fridge and she ill give me recipe ideas.
+996. Car doors should have a pop-out shoe cleaner to help keep the car floor tidy.
+997. Let’s rename Monday to Funday.
+998. An app so you can find out where your nearest ice cream van is.
+999. Digital piggy bank that displays how much you have inside
+1000. Instagram should allow you to repost other users post to your feed.
+1001. A hybrid between Tinder & Yelp. The ability to leave a review AFTER your date.
+1002. Gordon Ramsay alarm clock. Gordon throws insults at you until you turn him off.
+1003. Waterproof AirPods.
+1004. A meet up app to find people to play board games.
+1005. YouTube filter to remove ‘Reaction’ videos from my search results
